@@ -1,4 +1,5 @@
 # Redux Fundamentals Tutorial Example
+This project was made with React-Redux without using Redux-Toolkit
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
